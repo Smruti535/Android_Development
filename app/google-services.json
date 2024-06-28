@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "793419125736",
+    "project_id": "siliconandroid-855cf",
+    "storage_bucket": "siliconandroid-855cf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:793419125736:android:ea7a8a97d47032198eca5d",
+        "android_client_info": {
+          "package_name": "com.example.siliconfirebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBgz8oUU2y93vI6wPZ7kO9XY1Jfk6taHM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
